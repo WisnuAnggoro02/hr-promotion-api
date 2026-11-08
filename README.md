@@ -76,8 +76,20 @@ berjalan di mesin yang sama, `http://127.0.0.1:5000` tetap bisa dipakai.
 
 Berguna sebelum Vercel: API tetap jalan di Codespace, tapi bisa diakses dari internet.
 
+### Install ngrok (Codespace / Linux)
+
 ```bash
-# 1. Pasang ngrok (https://ngrok.com/download), lalu daftarkan authtoken akun gratis
+uname -m    # x86_64 -> pakai amd64 | aarch64 -> ganti "amd64" di URL dengan "arm64"
+curl -sSLo ngrok.tgz https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz
+sudo tar -xzf ngrok.tgz -C /usr/local/bin
+rm ngrok.tgz
+ngrok version    # pastikan versi muncul
+```
+
+### Jalankan tunnel
+
+```bash
+# 1. Daftarkan authtoken akun gratis (https://dashboard.ngrok.com)
 ngrok config add-authtoken <TOKEN_ANDA>
 
 # 2. Jalankan API (terminal 1) lalu tunnel (terminal 2)
