@@ -1,0 +1,41 @@
+employee_id,name,position,department,region,age,gender,education,recruitment_channel,length_of_service,no_of_trainings,previous_year_rating,awards_won,avg_training_score,performance_score,potential_score,leadership_score,technical_score,overall_assessment
+E001,Andi Pratama,Senior Analyst,Analytics,region_3,34,Male,Master's & above,Sourcing,8,4,5,1,87,90,85,78,92,86
+E002,Sari Dewi,Sales Manager,Sales & Marketing,region_7,41,Female,Bachelor's,Referred,12,3,4,0,74,80,72,65,70,72
+E003,Budi Santoso,Software Engineer,Technology,region_1,29,Male,Bachelor's,Sourcing,5,6,4,0,81,82,79,88,90,85
+E004,Rina Kusuma,HR Specialist,HR,region_12,36,Female,Bachelor's,Others,9,2,3,0,68,70,65,60,64,65
+E005,Hendra Wijaya,Finance Controller,Finance,region_5,45,Male,Master's & above,Referred,15,2,5,1,90,93,88,80,85,87
+E006,Lestari Putri,Operations Lead,Operations,region_9,38,Female,Bachelor's,Sourcing,10,4,4,1,78,83,80,75,72,78
+E007,Doni Kurniawan,Procurement Officer,Procurement,region_21,31,Male,Bachelor's,Others,6,5,3,0,72,71,68,62,70,68
+E008,Maya Sanjaya,Data Scientist,R&D,region_2,27,Female,Master's & above,Sourcing,3,7,4,0,85,84,88,82,91,86
+E009,Riko Saputra,Legal Counsel,Legal,region_15,43,Male,Master's & above,Referred,14,2,5,1,88,91,84,79,86,85
+E010,Fitri Handayani,Business Analyst,Analytics,region_6,32,Female,Bachelor's,Sourcing,7,5,4,0,79,81,77,74,78,78
+E011,Anita Rahayu,Senior Sales Manager,Sales & Marketing,region_4,32,Female,Bachelor's,Referred,9,8,5,1,93,91,96,72,76,86
+E012,Bagas Nugroho,Operations Supervisor,Operations,region_6,29,Male,Bachelor's,Sourcing,7,7,5,1,91,90,92,68,73,84
+E013,Candra Wibowo,Lead Engineer,Technology,region_11,36,Male,Master's & above,Referred,11,9,5,1,95,92,100,76,80,89
+E014,Dewi Anggraini,Procurement Manager,Procurement,region_3,34,Female,Bachelor's,Referred,10,6,5,1,90,90,88,74,70,83
+E015,Eko Prasetyo,Finance Director,Finance,region_8,38,Male,Master's & above,Sourcing,14,8,5,1,94,92,96,82,77,89
+E016,Farah Oktaviani,HR Business Partner,HR,region_14,31,Female,Master's & above,Referred,8,7,5,1,87,88,90,70,71,82
+E017,Galih Santoso,Senior Legal Counsel,Legal,region_2,43,Male,Master's & above,Referred,16,9,5,1,96,93,100,86,80,91
+E018,Hana Permatasari,Cloud Architect,Technology,region_16,27,Female,Master's & above,Sourcing,5,10,5,1,89,89,100,64,78,85
+E019,Ilham Fauzi,Key Account Manager,Sales & Marketing,region_19,35,Male,Bachelor's,Referred,10,7,5,1,88,88,91,74,71,83
+E020,Juwita Lestari,Operations Manager,Operations,region_22,33,Female,Bachelor's,Sourcing,8,8,5,1,86,87,93,70,72,82
+E021,Kurnia Adi,Operations Staff,Operations,region_5,28,Male,Below Secondary,Referred,3,3,3,0,70,60,58,36,52,56
+E022,Laila Nurhayati,Logistics Coordinator,Operations,region_13,35,Female,Below Secondary,Referred,5,3,4,0,73,68,66,50,53,63
+E023,Muhamad Ridwan,HR Officer,HR,region_9,42,Male,Below Secondary,Referred,3,3,3,1,70,64,58,40,52,58
+E024,Nanda Susanti,Recruitment Specialist,HR,region_17,38,Female,Below Secondary,Referred,6,3,4,1,72,73,65,56,53,65
+E025,Oscar Firmansyah,Junior Legal Officer,Legal,region_21,42,Male,Below Secondary,Referred,3,3,3,1,70,64,58,40,52,58
+E026,Putri Wahyuni,Compliance Officer,Legal,region_27,39,Female,Below Secondary,Referred,5,3,3,1,74,67,60,44,54,61
+E027,Rizky Hamdani,Sales Coordinator,Sales & Marketing,region_7,31,Male,Below Secondary,Sourcing,4,3,3,0,64,56,56,38,48,53
+E028,Sinta Melani,Channel Sales Staff,Sales & Marketing,region_24,44,Female,Below Secondary,Sourcing,7,3,4,0,65,64,62,54,48,59
+E029,Tri Handayani,Finance Officer,Finance,region_26,38,Female,Below Secondary,Sourcing,5,3,3,1,70,64,58,44,52,58
+E030,Umar Fathoni,Budget Analyst,Finance,region_31,40,Male,Below Secondary,Sourcing,6,3,4,1,72,73,65,56,53,65
+E031,Vivi Ariyanti,Admin Staff,HR,region_10,42,Female,Below Secondary,Others,3,1,1,0,45,32,29,16,31,31
+E032,Wahyu Saputra,Procurement Staff,Procurement,region_15,50,Male,Bachelor's,Others,5,2,2,0,52,43,41,30,38,41
+E033,Xenia Utami,Office Assistant,HR,region_20,55,Female,Below Secondary,Others,6,1,1,0,40,29,27,22,28,29
+E034,Yoga Pradipta,Junior Analyst,Analytics,region_18,48,Male,Below Secondary,Others,4,1,1,0,48,33,31,18,33,33
+E035,Zara Puspita,Sales Admin,Sales & Marketing,region_25,45,Female,Below Secondary,Others,3,2,2,0,50,42,40,26,36,39
+E036,Agus Setiawan,Document Controller,Legal,region_30,52,Male,Below Secondary,Others,5,1,1,0,43,31,28,20,30,30
+E037,Bella Kuswardani,Finance Admin,Finance,region_22,47,Female,Bachelor's,Others,4,1,2,0,55,44,40,28,38,41
+E038,Chandra Mukti,Clerical Staff,HR,region_28,58,Male,Below Secondary,Others,7,1,1,0,47,33,30,24,33,33
+E039,Diana Purnama,Support Staff,Procurement,region_17,44,Female,Below Secondary,Others,3,1,1,0,42,30,28,16,29,29
+E040,Erfan Hidayat,Operations Assistant,Operations,region_33,53,Male,Below Secondary,Others,6,2,2,0,51,42,41,32,37,41
